@@ -1,0 +1,13 @@
+body{
+  font-family: 'Titillium Web', sans-serif;
+}
+header{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+footer{
+  background: url(../img/pics/blockchain.jpg);
+}
+.footer{
+  background-color: rgba(48, 51, 107, 0.7);
+}
